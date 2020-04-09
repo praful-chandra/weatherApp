@@ -1,4 +1,6 @@
 # Weather app
+              
+              ## run npm install after clone
 
              -- this app is using openweathermap.org API
             
